@@ -1,0 +1,317 @@
+,TERM,SUBJECT,CATALOG NBR,CLASS SECTION,CLASS NUMBER,COURSE DESCR,INSTR LAST NAME,INSTR FIRST NAME,A,B,C,D,F,SATISFACTORY,UNSATISFACTORY,NOT REPORTED,TOTAL DROPPED,AVG GPA
+10,Spring 2022,MATH,8699,11,14940,Doctoral Dissertation,Haynes,Alan K,1,0,0,0,0,0,0,0,0,4.0
+31,Spring 2022,MATH,1324,9,14845,Finite Math with Applications,Hafeez,Shahinda,23,23,25,4,23,0,0,0,28,2.13
+81,Spring 2022,COSC,4399,2,26607,Senior Honors Thesis,Shah,Shishir,1,0,0,0,0,0,0,0,0,4.0
+114,Spring 2022,COSC,3360,1,14370,Operating Systems,Cheng,Albert M K,9,23,27,17,24,0,0,0,54,1.737
+162,Spring 2022,COSC,8998,115,20235,Doctoral Research,Laszka,Aron,0,0,0,0,0,5,0,0,0,0.0
+167,Spring 2022,COSC,8398,116,20174,Doctoral Research,Leiss,Ernst L,0,0,0,0,0,1,0,0,0,0.0
+178,Spring 2022,COSC,6308,1,26457,Computer Architecture,Long,Kevin B,3,0,0,0,0,0,0,0,0,4.0
+180,Spring 2022,COSC,6386,1,20924,Prgrm Analys & Testing,Alipour,Mohammad Amin,34,8,3,7,0,0,0,0,1,3.276
+241,Spring 2022,COSC,1437,3,18710,Introduction to Programming,Chen,Guoning,59,31,8,1,6,0,0,0,13,3.254
+243,Spring 2022,MATH,1351,2,18382,Introduction to Math Reasoning,Hong,Yuqi,30,25,16,6,25,0,0,0,9,2.223
+274,Spring 2022,MATH,8398,18,16984,Doctoral Research,Labate,Demetrio,0,0,0,0,0,2,0,0,0,0.0
+293,Spring 2022,COSC,8699,103,20285,Doctoral Dissertation,Cheng,Albert M K,1,0,0,0,0,0,0,0,0,4.0
+337,Spring 2022,MATH,3336,2,14860,Discrete Mathematics,Douglas,Casey,28,27,30,9,7,0,0,0,13,2.574
+356,Spring 2022,MATH,2312,2,21956,Precalculus,May,Jennifer Ruhnow,37,43,25,10,21,0,0,0,39,2.429
+397,Spring 2022,MATH,6315,30,19699,Masters Tutorial,Poliak,Cathy Dawn,3,0,0,0,0,0,0,0,0,4.0
+412,Spring 2022,COSC,4370,1,20526,Interactive Computer Graphics,Deng,Zhigang,37,22,2,0,1,0,0,0,3,3.474
+415,Spring 2022,COSC,3371,1,18696,Cybersecurity,Laszka,Aron,26,34,8,1,1,0,0,0,0,3.209
+420,Spring 2022,COSC,2425,7,26426,Computer Org & Architecture,Long,Kevin B,28,8,5,1,6,0,0,0,8,3.063
+429,Spring 2022,MATH,1324,2,19105,Finite Math with Applications,Caglar,Atife,35,37,34,13,29,0,0,0,26,2.192
+450,Spring 2022,COSC,8699,131,20313,Doctoral Dissertation,Wu,Panruo,1,0,0,0,0,0,0,0,0,4.0
+464,Spring 2022,COSC,2425,3,26422,Computer Org & Architecture,Long,Kevin B,40,7,2,1,3,0,0,0,6,3.509
+487,Spring 2022,COSC,8398,102,20160,Doctoral Research,Chen,Guoning,0,0,0,0,0,1,0,0,0,0.0
+531,Spring 2022,COSC,8998,131,20251,Doctoral Research,Wu,Panruo,0,0,0,0,0,1,0,0,0,0.0
+545,Spring 2022,MATH,2414,1,18577,Calculus II,Almus,Melahat,119,54,32,23,35,0,0,0,33,2.739
+547,Spring 2022,MATH,1351,3,16052,Introduction to Math Reasoning,Douglas,Casey,78,59,69,21,36,0,0,0,29,2.385
+557,Spring 2022,MATH,2414,41,25074,Calculus II,West,James David,4,4,9,4,11,0,0,0,14,1.521
+588,Spring 2022,MATH,3339,1,17177,Statistics for the Sciences,Jun,Mikyoung,13,8,5,8,4,0,0,0,9,2.413
+646,Spring 2022,MATH,1314,1,18547,College Algebra,Chang,James A,28,27,50,30,52,0,0,0,44,1.643
+650,Spring 2022,MATH,3336,4,18548,Discrete Mathematics,Mang,Andreas,31,33,12,0,0,0,0,0,3,3.228
+664,Spring 2022,MATH,6315,1,14874,Masters Tutorial,Etgen,Garret J,3,0,0,0,0,0,0,0,0,4.0
+705,Spring 2022,COSC,6306,3,26871,Data Structures,Rizk,Nouhad J,0,1,0,0,0,0,0,0,0,3.0
+734,Spring 2022,MATH,3396,1,25477,Senior Research Project,Kalantar,Mehrdad,0,0,0,0,0,1,0,0,0,0.0
+736,Spring 2022,MATH,6398,9,14889,Special Problems,Mang,Andreas,0,0,0,0,0,2,0,0,0,0.0
+738,Spring 2022,MATH,3321,1,14856,Engineering Mathematics,Etgen,Garret J,30,35,21,24,34,0,0,0,27,2.021
+775,Spring 2022,COSC,6323,2,27679,Statistical Method in Research,Pavlidis,Ioannis T,6,4,1,0,0,0,0,0,0,3.455
+791,Spring 2022,COSC,8998,101,20221,Doctoral Research,Alipour,Mohammad Amin,0,0,0,0,0,1,0,0,0,0.0
+804,Spring 2022,COSC,6348,1,25884,Intro Game Art and Animation,Yun,Changhoon,10,0,0,0,0,0,0,0,0,4.0
+833,Spring 2022,COSC,8399,110,20261,Doctoral Dissertation,Gurkan,Deniz,0,0,0,0,0,1,0,0,0,0.0
+845,Spring 2022,COSC,6384,1,20967,Real-Time Systems,Cheng,Albert M K,2,3,4,2,0,0,0,0,3,2.515
+861,Spring 2022,COSC,8398,131,20189,Doctoral Research,Wu,Panruo,0,0,0,0,0,3,0,0,0,0.0
+863,Spring 2022,COSC,8699,119,20301,Doctoral Dissertation,Ordonez,Carlos,1,0,0,0,0,0,0,0,0,4.0
+864,Spring 2022,MATH,8399,1,14914,Doctoral Dissertation,Azencott,Robert Guy,1,0,0,0,0,0,0,0,0,4.0
+865,Spring 2022,MATH,3339,4,21009,Statistics for the Sciences,Wang,Wenshuang,58,28,27,21,25,0,0,0,20,2.457
+881,Spring 2022,MATH,8699,29,15493,Doctoral Dissertation,Olshanskiy,Maxim Alexandrovich,2,0,0,0,0,0,0,0,0,4.0
+892,Spring 2022,COSC,4398,11,26314,Independent Study,Bering,Edgar A,1,0,0,0,0,0,0,0,0,4.0
+903,Spring 2022,COSC,6309,1,15448,Intro Automata & Computability,Leiss,Ernst L,1,6,2,1,0,0,0,0,0,2.799
+909,Spring 2022,MATH,3325,4,19436,Transition to Advanced Math,Gao,Li,13,2,1,1,3,0,0,0,5,3.05
+921,Spring 2022,MATH,3363,3,24516,Introduction To Pde,Perepelitsa,Mikhail Antolyevic,6,7,7,5,2,0,0,0,8,2.321
+951,Spring 2022,MATH,8398,13,16697,Doctoral Research,Josic,Kresimir,0,0,0,0,0,1,0,0,0,0.0
+964,Spring 2022,COSC,6374,1,25885,Parallel Computations,Wu,Panruo,6,0,0,0,0,0,0,0,2,4.0
+984,Spring 2022,MATH,3307,1,16889,Statistical Applications,Caputo,Matthew G,35,17,4,2,1,0,0,0,8,3.401
+986,Spring 2022,MATH,4323,1,20026,Data Science and Stats Learn,Wang,Wenshuang,47,16,10,0,2,0,0,0,4,3.387
+1005,Spring 2022,MATH,8698,22,19072,Doctoral Research,Haynes,Alan K,0,0,0,0,0,1,0,0,0,0.0
+1011,Spring 2022,COSC,7399,109,27928,Masters Thesis,Gnawali,Omprakash D,1,0,0,0,0,0,0,0,0,4.0
+1045,Spring 2022,COSC,8698,119,20208,Doctoral Research,Ordonez,Carlos,0,0,0,0,0,1,0,0,0,0.0
+1054,Spring 2022,MATH,8398,14,16698,Doctoral Research,Jun,Mikyoung,0,0,0,0,0,1,0,0,0,0.0
+1066,Spring 2022,COSC,2425,1,18678,Computer Org & Architecture,Long,Kevin B,42,8,2,1,3,0,0,0,4,3.518
+1090,Spring 2022,MATH,6398,10,14890,Special Problems,Ru,Min,0,0,0,0,0,1,0,0,0,0.0
+1111,Spring 2022,COSC,6310,1,15449,Fundamentals of Operating Syst,Cheng,Albert M K,0,0,1,0,0,0,0,0,1,2.33
+1118,Spring 2022,COSC,8698,110,20199,Doctoral Research,Gurkan,Deniz,0,0,0,0,0,1,0,0,0,0.0
+1123,Spring 2022,COSC,8698,127,20216,Doctoral Research,Subhlok,Jaspal,0,0,0,0,0,1,0,0,0,0.0
+1178,Spring 2022,MATH,3330,4,18808,Abstract Algebra,Kalantar,Mehrdad,8,7,1,3,1,0,0,0,7,2.933
+1198,Spring 2022,MATH,3339,6,25178,Statistics for the Sciences,Kwon,Junhyeon,16,18,4,7,2,0,0,0,11,2.872
+1241,Spring 2022,COSC,4354,1,16048,Software Development Practices,Subramaniam,Venkat,38,5,0,0,0,0,0,0,1,3.761
+1243,Spring 2022,MATH,3364,1,16717,Intro Complex Analysis,Onofrei,Daniel T,3,5,2,1,5,0,0,0,2,2.041
+1250,Spring 2022,MATH,4396,1,14866,Senior Research Project,Haynes,Alan K,1,0,0,0,0,0,0,0,0,4.0
+1300,Spring 2022,COSC,8698,102,20191,Doctoral Research,Chen,Guoning,0,0,0,0,0,1,0,0,0,0.0
+1346,Spring 2022,MATH,2131,2,24737,Linear Alg Labs w/MATLAB,Goligerdian,Arash,17,4,0,3,3,0,0,0,1,3.013
+1394,Spring 2022,MATH,3333,2,24474,Intermediate Analysis,Labate,Demetrio,3,3,5,4,3,0,0,0,1,1.908
+1427,Spring 2022,COSC,7336,1,25887,Advanced NLP,Verma,Rakesh M,4,8,0,0,0,0,0,0,0,3.388
+1436,Spring 2022,COSC,8398,106,20164,Doctoral Research,Deng,Zhigang,0,0,0,0,0,2,0,0,0,0.0
+1524,Spring 2022,MATH,3339,3,16291,Statistics for the Sciences,Labate,Demetrio,10,6,8,7,12,0,0,0,9,1.853
+1547,Spring 2022,COSC,8398,103,20161,Doctoral Research,Cheng,Albert M K,0,0,0,0,0,1,0,0,0,0.0
+1550,Spring 2022,COSC,4348,1,25880,Intro Game Art and Animation,Yun,Changhoon,90,8,0,0,0,0,0,0,2,3.908
+1555,Spring 2022,MATH,2413,51,25609,Calculus I,Caglar,Atife,5,20,14,8,17,0,0,0,11,1.771
+1571,Spring 2022,MATH,5344,1,26287,Intro to Scientific Computing,Morgan,Jeffrey,3,1,0,0,0,0,0,0,0,3.833
+1602,Spring 2022,MATH,2312,7,14851,Precalculus,May,Jennifer Ruhnow,78,25,18,4,20,0,0,0,42,2.902
+1634,Spring 2022,COSC,4397,2,25882,Sel Top-Computer Science,Yun,Changhoon,22,2,0,0,0,0,0,0,3,3.848
+1668,Spring 2022,MATH,3330,3,18807,Abstract Algebra,O'Malley,Matthew J,4,7,3,2,5,0,0,0,9,2.19
+1713,Spring 2022,MATH,6381,2,26530,Information Visualization,Shastri,Dvijesh J,1,6,0,0,0,0,0,0,0,3.19
+1728,Spring 2022,COSC,1437,1,18707,Introduction to Programming,Biediger,Daniel Edward,72,24,16,2,11,0,0,0,26,3.147
+1746,Spring 2022,MATH,8698,18,19000,Doctoral Research,Jun,Mikyoung,0,0,0,0,0,3,0,0,0,0.0
+1771,Spring 2022,MATH,6359,2,20885,Appl. Stat. & Mult. Analysis,Poliak,Cathy Dawn,16,1,1,0,0,0,0,0,0,3.815
+1779,Spring 2022,COSC,3396,2,27810,Senior Research Project,Eick,Christoph F,1,0,0,0,0,0,0,0,0,4.0
+1831,Spring 2022,MATH,4377,3,17019,Advanced Linear Algebra I,Ji,Shanyu,6,6,2,5,3,0,0,0,0,2.228
+1930,Spring 2022,MATH,2415,1,18588,Calculus III,Weber,Thomas Christian,58,38,39,21,25,0,0,0,54,2.459
+1942,Spring 2022,MATH,8398,19,17296,Doctoral Research,Mang,Andreas,0,0,0,0,0,1,0,0,0,0.0
+1964,Spring 2022,COSC,8998,126,20246,Doctoral Research,Solorio Martinez,Thamar Ivette,0,0,0,0,0,3,0,0,0,0.0
+2023,Spring 2022,MATH,3321,5,24460,Engineering Mathematics,Ryan,John M,20,26,32,11,21,0,0,0,20,2.109
+2029,Spring 2022,MATH,1342,3,14853,Elementary Statistical Methods,Caputo,Matthew G,62,73,79,16,23,0,0,0,43,2.464
+2045,Spring 2022,MATH,6359,1,19697,Appl. Stat. & Mult. Analysis,Poliak,Cathy Dawn,19,0,3,0,0,0,0,0,0,3.727
+2076,Spring 2022,MATH,3331,2,14858,Differential Equations,Sanders,Richard,9,2,3,1,3,0,0,0,1,2.722
+2091,Spring 2022,MATH,2413,31,18603,Calculus I,Sosa,Moses,23,26,41,25,47,0,0,0,45,1.639
+2119,Spring 2022,MATH,3338,3,16055,Probability,Papadakis,Emanuel Ioannis,7,4,3,0,5,0,0,0,2,2.456
+2142,Spring 2022,COSC,8298,114,27173,Doctoral Research,Kakadiaris,Ioannis A.,0,0,0,0,0,2,0,0,0,0.0
+2144,Spring 2022,COSC,6353,3,22125,Software Design,Subramaniam,Venkat,1,4,0,0,0,0,0,0,3,3.266
+2162,Spring 2022,COSC,8398,128,20186,Doctoral Research,Tsekos,Nikolaos V,0,0,0,0,0,2,0,0,0,0.0
+2167,Spring 2022,COSC,8399,125,20276,Doctoral Dissertation,Shi,Weidong,2,0,0,0,0,0,0,0,0,4.0
+2171,Spring 2022,COSC,8698,114,20203,Doctoral Research,Kakadiaris,Ioannis A.,0,0,0,0,0,2,0,0,0,0.0
+2173,Spring 2022,COSC,8698,103,20192,Doctoral Research,Cheng,Albert M K,0,0,0,0,0,1,0,0,0,0.0
+2176,Spring 2022,COSC,3320,2,19971,Algorithms and Data Structures,Pandurangan,Gopal,12,43,25,9,7,0,0,0,23,2.438
+2189,Spring 2022,MATH,4383,1,24533,Number Theory and Cryptography,Ru,Min,9,12,4,0,3,0,0,0,5,2.928
+2196,Spring 2022,COSC,4353,3,22124,Software Design,Subramaniam,Venkat,8,8,3,1,0,0,0,0,2,3.051
+2235,Spring 2022,MATH,4362,1,19102,Theory Diff Equ and Nonlnr Dyn,Climenhaga,Vaughn,1,1,0,2,0,0,0,0,2,2.498
+2256,Spring 2022,COSC,7399,107,22698,Masters Thesis,Eick,Christoph F,1,0,0,0,0,0,0,0,0,3.67
+2267,Spring 2022,MATH,4380,1,14864,Mathematical Intro To Options,Kao,Edward P,4,21,1,0,2,0,0,0,1,2.775
+2270,Spring 2022,MATH,2413,61,18605,Calculus I,Perepelitsa,Irina,5,5,3,3,14,0,0,0,8,1.434
+2285,Spring 2022,MATH,1342,5,14854,Elementary Statistical Methods,Hong,Yuqi,8,26,21,10,21,0,0,0,16,1.799
+2299,Spring 2022,COSC,6385,1,16065,Computer Architecture,Shi,Weidong,14,4,0,0,0,0,0,0,0,3.723
+2321,Spring 2022,MATH,7315,5,16973,Masters Tutorial,Mamonov,Alexander V,0,0,0,0,0,0,0,0,1,0.0
+2335,Spring 2022,COSC,6377,1,19240,Computer Networks,Gnawali,Omprakash D,7,14,0,0,1,0,0,0,1,3.122
+2372,Spring 2022,COSC,4364,1,19973,Numerical Methods,Johnsson,Lennart,7,10,6,1,3,0,0,0,7,2.569
+2391,Spring 2022,MATH,6303,1,14873,Modern Algebra,Haynes,Alan K,8,0,0,0,0,0,0,0,0,4.0
+2394,Spring 2022,MATH,6398,3,14883,Special Problems,Blecher,David P,0,0,0,0,0,2,0,0,0,0.0
+2413,Spring 2022,COSC,6364,1,17075,Adv Numerical Analysis,Tsekos,Nikolaos V,38,17,5,0,0,0,0,0,0,3.424
+2452,Spring 2022,MATH,6383,1,14881,Statistics,Fu,Wenjiang,12,3,0,0,0,0,0,0,0,3.8
+2453,Spring 2022,COSC,6372,1,20968,Computer Graphics,Deng,Zhigang,5,0,0,0,1,0,0,0,2,3.333
+2460,Spring 2022,COSC,6373,1,17802,Computer Vision,Kakadiaris,Ioannis A.,17,12,1,0,0,0,0,0,0,3.489
+2479,Spring 2022,MATH,8698,10,17326,Doctoral Research,Onofrei,Daniel T,0,0,0,0,0,1,0,0,0,0.0
+2483,Spring 2022,COSC,6354,1,26579,Software Development Practices,Subramaniam,Venkat,1,0,0,0,0,0,0,0,0,4.0
+2488,Spring 2022,MATH,1325,2,14846,Calc for Bus & Social Sciences,Constante,Beatrice,35,37,19,6,16,0,0,0,38,2.558
+2490,Spring 2022,MATH,3339,5,18549,Statistics for the Sciences,Wang,Wenshuang,105,44,19,19,9,0,0,0,19,3.09
+2564,Spring 2022,MATH,8698,3,17241,Doctoral Research,Timofeyev,Ilya,0,0,0,0,0,1,0,0,0,0.0
+2589,Spring 2022,MATH,2318,6,17930,Linear Algebra,Sanders,Richard,12,6,11,3,7,0,0,0,1,2.291
+2599,Spring 2022,MATH,3325,2,16720,Transition to Advanced Math,Leger,Nicholas M,9,8,7,2,2,0,0,0,2,2.738
+2606,Spring 2022,COSC,8998,125,20245,Doctoral Research,Shi,Weidong,0,0,0,0,0,1,0,0,0,0.0
+2609,Spring 2022,MATH,1100,4,25101,Developmental Math,Caputo,Matthew G,0,0,0,0,0,5,2,0,1,0.0
+2630,Spring 2022,COSC,4398,2,26316,Independent Study,Rizk,Nouhad J,0,0,0,0,0,1,0,0,0,0.0
+2637,Spring 2022,COSC,8998,113,20233,Doctoral Research,Johnsson,Lennart,0,0,0,0,0,1,0,0,0,0.0
+2640,Spring 2022,MATH,3304,1,14855,Mathematical Analysis,Constante,Beatrice,17,13,12,4,5,0,0,0,8,2.686
+2642,Spring 2022,MATH,1342,7,16354,Elementary Statistical Methods,Caputo,Matthew G,9,10,11,11,12,0,0,0,7,1.787
+2654,Spring 2022,MATH,6315,2,14875,Masters Tutorial,Ru,Min,1,0,0,0,0,0,0,0,0,4.0
+2655,Spring 2022,COSC,4393,1,19239,Digital Image Processing,Mantini,Pranav,62,37,6,0,1,0,0,0,8,3.497
+2657,Spring 2022,MATH,4389,1,14865,Survey of Undergraduate Math,Almus,Melahat,22,16,9,3,4,0,0,0,3,2.877
+2719,Spring 2022,MATH,8698,27,27063,Doctoral Research,Morgan,Jeffrey,0,0,0,0,0,1,0,0,0,0.0
+2722,Spring 2022,MATH,1300,1,20819,Fundamentals of Mathematics,Chang,James A,0,0,0,0,0,32,11,0,1,0.0
+2732,Spring 2022,MATH,1324,7,14844,Finite Math with Applications,Watkins,Katie Nicole,19,34,49,32,43,0,0,0,51,1.656
+2740,Spring 2022,MATH,1314,4,24550,College Algebra,Hafeez,Shahinda,5,7,16,3,21,0,0,0,17,1.455
+2836,Spring 2022,MATH,8699,3,14934,Doctoral Dissertation,Azencott,Robert Guy,1,0,0,0,0,0,0,0,0,4.0
+2840,Spring 2022,MATH,6395,1,24537,Select Topics Analysis,Blecher,David P,7,0,0,0,0,0,0,0,0,3.764
+2851,Spring 2022,COSC,8398,120,20178,Doctoral Research,Pandurangan,Gopal,0,0,0,0,0,1,0,0,0,0.0
+2880,Spring 2022,COSC,2436,5,18705,Programming and Data Structure,Rizk,Nouhad J,25,28,17,3,8,0,0,0,29,2.684
+2939,Spring 2022,MATH,1342,6,16053,Elementary Statistical Methods,Caputo,Matthew G,29,28,28,15,17,0,0,0,19,2.237
+2941,Spring 2022,COSC,2436,3,19970,Programming and Data Structure,Rizk,Nouhad J,19,7,14,3,11,0,0,0,37,2.334
+2944,Spring 2022,COSC,1336,5,25967,Computer Science & Program,Rincon Castro,Carlos Alberto,41,22,20,4,11,0,0,0,8,2.769
+3004,Spring 2022,COSC,6397,2,26394,Topics Computer Science,Yun,Changhoon,3,2,0,0,0,0,0,0,0,3.666
+3064,Spring 2022,MATH,3363,5,24517,Introduction To Pde,Cappanera,Loic,10,9,3,2,4,0,0,0,6,2.596
+3075,Spring 2022,MATH,1451,1,14852,Accelerated Calculus,Gao,Li,12,0,0,0,0,0,0,0,0,3.89
+3080,Spring 2022,MATH,7352,1,24538,Riemannian Geometry,Heier,Gordon,9,0,0,0,0,0,0,0,0,3.927
+3084,Spring 2022,MATH,6309,1,15500,Advanced Linear Algebra II,Mamonov,Alexander V,4,2,1,0,0,0,0,0,0,3.429
+3095,Spring 2022,COSC,8598,120,27798,Doctoral Research,Pandurangan,Gopal,0,0,0,0,0,1,0,0,0,0.0
+3096,Spring 2022,MATH,3399,1,27470,Senior Honors Thesis,Josic,Kresimir,0,0,0,0,0,0,0,0,0,0.0
+3106,Spring 2022,MATH,8398,5,15495,Doctoral Research,Cappanera,Loic,0,0,0,0,0,1,0,0,0,0.0
+3125,Spring 2022,MATH,2415,21,18598,Calculus III,West,James David,3,15,23,9,26,0,0,0,40,1.465
+3151,Spring 2022,MATH,4309,1,16170,Mathematical Biology,Winkle,James J,4,0,0,0,0,0,0,0,1,3.918
+3199,Spring 2022,MATH,2318,3,17711,Linear Algebra,Sosa Jones,Giselle Gabriela,17,13,13,12,13,0,0,0,7,2.064
+3201,Spring 2022,COSC,8698,112,20201,Doctoral Research,Huang,Shou-Hsuan Stephen,0,0,0,0,0,1,0,0,0,0.0
+3323,Spring 2022,COSC,6398,109,20322,Special Problems,Gnawali,Omprakash D,0,0,0,0,0,1,0,0,0,0.0
+3332,Spring 2022,COSC,8298,125,26902,Doctoral Research,Shi,Weidong,0,0,0,0,0,1,0,0,0,0.0
+3336,Spring 2022,MATH,1342,1,17244,Elementary Statistical Methods,Weber,Thomas Christian,38,59,42,17,28,0,0,0,29,2.281
+3340,Spring 2022,MATH,3363,2,16982,Introduction To Pde,Fitzgibbon,William E,3,2,4,0,2,0,0,0,6,2.274
+3394,Spring 2022,COSC,8998,124,20244,Doctoral Research,Shah,Shishir,0,0,0,0,0,1,0,0,0,0.0
+3444,Spring 2022,MATH,3338,2,20878,Probability,Leger,Nicholas M,9,12,4,5,8,0,0,0,1,2.237
+3486,Spring 2022,MATH,8698,25,20571,Doctoral Research,Climenhaga,Vaughn,0,0,0,0,0,3,0,0,0,0.0
+3506,Spring 2022,COSC,1437,5,18713,Introduction to Programming,Biediger,Daniel Edward,74,20,13,5,8,0,0,0,23,3.2
+3517,Spring 2022,MATH,1100,2,25099,Developmental Math,Chang,James A,0,0,0,0,0,16,9,0,5,0.0
+3524,Spring 2022,MATH,6373,1,19698,Deep Learning and Neural Nets,Azencott,Robert Guy,22,14,1,0,2,0,0,0,2,3.308
+3545,Spring 2022,COSC,8399,124,20275,Doctoral Dissertation,Shah,Shishir,0,0,0,0,0,2,0,0,0,0.0
+3553,Spring 2022,MATH,1342,2,20974,Elementary Statistical Methods,Weber,Thomas Christian,51,63,65,21,32,0,0,0,33,2.301
+3564,Spring 2022,MATH,3333,1,19682,Intermediate Analysis,Winkle,James J,9,12,10,8,2,0,0,0,1,2.391
+3567,Spring 2022,COSC,4397,1,25881,Sel Top-Computer Science,Rizk,Nouhad J,4,5,7,2,0,0,0,0,0,2.483
+3582,Spring 2022,MATH,1332,5,18867,Elem Mathematical Modeling,Hafeez,Shahinda,22,22,36,13,27,0,0,0,22,1.942
+3592,Spring 2022,MATH,6371,1,14880,Numerical Analysis,Kuznetsov,Yuri Alexeevich,8,4,0,0,0,0,0,0,0,3.529
+3615,Spring 2022,COSC,8298,101,27935,Doctoral Research,Alipour,Mohammad Amin,0,0,0,0,0,1,0,0,0,0.0
+3626,Spring 2022,COSC,8398,114,20172,Doctoral Research,Kakadiaris,Ioannis A.,0,0,0,0,0,1,0,0,0,0.0
+3643,Spring 2022,MATH,2318,5,24454,Linear Algebra,Perepelitsa,Mikhail Antolyevic,8,19,19,20,17,0,0,0,15,1.715
+3648,Spring 2022,MATH,2312,4,14849,Precalculus,Perepelitsa,Irina,21,14,13,6,10,0,0,0,15,2.386
+3695,Spring 2022,COSC,8398,127,20185,Doctoral Research,Subhlok,Jaspal,0,0,0,0,0,2,0,0,0,0.0
+3783,Spring 2022,MATH,4378,1,14863,Advanced Linear Algebra II,Mamonov,Alexander V,1,2,4,1,3,0,0,0,1,1.727
+3790,Spring 2022,COSC,1336,2,17787,Computer Science & Program,Hilford,Victoria,24,29,17,2,7,0,0,0,20,2.73
+3813,Spring 2022,COSC,6323,1,17804,Statistical Method in Research,Pavlidis,Ioannis T,28,19,0,0,0,0,0,0,0,3.596
+3897,Spring 2022,MATH,2131,1,17713,Linear Alg Labs w/MATLAB,Vu,An Thuy,12,4,5,1,2,0,0,0,4,2.986
+3939,Spring 2022,COSC,4331,1,20529,Real-Time Syst & Embedded Prog,Cheng,Albert M K,5,10,9,3,1,0,0,0,9,2.524
+3943,Spring 2022,MATH,1100,1,20820,Developmental Math,Caputo,Matthew G,0,0,0,0,0,25,18,0,8,0.0
+3973,Spring 2022,MATH,2318,4,24451,Linear Algebra,Jaramillo,Gabriela T,2,4,5,4,4,0,0,0,6,1.789
+3992,Spring 2022,MATH,6315,5,26807,Masters Tutorial,Mang,Andreas,0,0,0,0,0,0,0,0,1,0.0
+4000,Spring 2022,MATH,2414,11,18582,Calculus II,Xhabli,Blerina,80,49,36,22,52,0,0,0,53,2.3
+4014,Spring 2022,COSC,6339,1,25883,Big Data Analytics,Ordonez,Carlos,22,44,4,0,0,0,0,0,1,3.219
+4023,Spring 2022,COSC,6380,1,19265,Digital Image Processing,Mantini,Pranav,51,12,1,0,1,0,0,0,0,3.672
+4061,Spring 2022,COSC,8998,122,20242,Doctoral Research,Pavlidis,Ioannis T,0,0,0,0,0,6,0,0,0,0.0
+4087,Spring 2022,COSC,4298,2,27822,Independent Study,Alipour,Mohammad Amin,0,0,0,0,0,1,0,0,0,0.0
+4096,Spring 2022,MATH,1314,3,17365,College Algebra,Caputo,Matthew G,12,15,26,11,24,0,0,0,23,1.675
+4159,Spring 2022,MATH,2413,70,27370,Calculus I,Morgan,Jeffrey,0,0,0,0,0,0,0,0,0,0.0
+4175,Spring 2022,COSC,3380,1,16757,Database Systems,Ramamurthy,Uma,22,44,11,0,0,0,0,0,12,2.993
+4194,Spring 2022,MATH,1451,7,19103,Accelerated Calculus,Ott,William R,13,4,1,1,0,0,0,0,1,3.544
+4197,Spring 2022,MATH,6374,1,24536,Num Part Diff Equations,Olshanskiy,Maxim Alexandrovich,6,11,2,0,0,0,0,0,0,3.245
+4235,Spring 2022,COSC,8399,103,20254,Doctoral Dissertation,Cheng,Albert M K,1,0,0,0,0,0,0,0,0,4.0
+4237,Spring 2022,COSC,8698,130,20219,Doctoral Research,Vilalta,Ricardo,0,0,0,0,0,1,0,0,0,0.0
+4244,Spring 2022,MATH,2312,6,14850,Precalculus,Constante,Beatrice,55,40,28,12,21,0,0,0,39,2.603
+4255,Spring 2022,MATH,2312,3,14848,Precalculus,Chang,James A,70,31,32,6,14,0,0,0,44,2.88
+4269,Spring 2022,MATH,1314,8,14841,College Algebra,Hafeez,Shahinda,15,17,39,20,47,0,0,0,40,1.459
+4349,Spring 2022,COSC,8698,131,20220,Doctoral Research,Wu,Panruo,0,0,0,0,0,1,0,0,0,0.0
+4361,Spring 2022,MATH,8399,9,14921,Doctoral Dissertation,Josic,Kresimir,2,0,0,0,0,0,0,0,0,4.0
+4386,Spring 2022,MATH,6313,1,15499,Introduction to Real Analysis,Vershynina,Anna,5,0,0,0,0,0,0,0,0,3.802
+4387,Spring 2022,COSC,8998,106,20226,Doctoral Research,Deng,Zhigang,0,0,0,0,0,1,0,0,0,0.0
+4417,Spring 2022,MATH,6397,1,24420,Selected Topics in Math,Arregoces,Luis A,22,0,0,0,0,0,0,0,0,4.0
+4427,Spring 2022,MATH,6381,1,20129,Information Visualization,Shastri,Dvijesh J,14,15,3,1,1,0,0,0,0,3.07
+4495,Spring 2022,COSC,2425,5,26424,Computer Org & Architecture,Long,Kevin B,33,10,2,0,1,0,0,0,5,3.609
+4510,Spring 2022,COSC,4351,1,14371,Fundamentals of Software Engr,Hilford,Victoria,59,27,5,0,0,0,0,0,1,3.586
+4518,Spring 2022,MATH,3331,3,19435,Differential Equations,Winkle,James J,14,13,17,6,3,0,0,0,9,2.504
+4552,Spring 2022,MATH,8698,19,19038,Doctoral Research,Josic,Kresimir,0,0,0,0,0,2,0,0,0,0.0
+4575,Spring 2022,MATH,8698,6,17316,Doctoral Research,Perepelitsa,Mikhail Antolyevic,0,0,0,0,0,1,0,0,0,0.0
+4594,Spring 2022,MATH,1332,1,24734,Elem Mathematical Modeling,Namakforoosh,Navid,15,17,18,5,17,0,0,0,10,2.079
+4636,Spring 2022,MATH,8698,17,18511,Doctoral Research,Kalantar,Mehrdad,0,0,0,0,0,1,0,0,0,0.0
+4673,Spring 2022,MATH,1351,5,20972,Introduction to Math Reasoning,Watkins,Katie Nicole,18,24,33,24,25,0,0,0,45,1.781
+4675,Spring 2022,MATH,3363,1,16528,Introduction To Pde,Perepelitsa,Mikhail Antolyevic,6,9,13,7,1,0,0,0,16,2.242
+4680,Spring 2022,COSC,3380,2,18684,Database Systems,Ramamurthy,Uma,13,37,22,1,4,0,0,0,12,2.637
+4740,Spring 2022,COSC,8398,118,20176,Doctoral Research,Mukherjee,Arjun,0,0,0,0,0,1,0,0,0,0.0
+4764,Spring 2022,COSC,1336,3,17788,Computer Science & Program,Hilford,Victoria,28,24,15,6,10,0,0,0,14,2.631
+4766,Spring 2022,MATH,2318,1,15386,Linear Algebra,Mamonov,Alexander V,7,26,15,10,9,0,0,0,13,2.214
+4775,Spring 2022,MATH,3379,1,14861,Introductn to Higher Geometry,Xhabli,Blerina,12,3,0,0,0,0,0,0,2,3.734
+4828,Spring 2022,MATH,2414,31,18593,Calculus II,May,Jennifer Ruhnow,52,35,30,11,15,0,0,0,34,2.674
+4831,Spring 2022,MATH,2413,41,18575,Calculus I,Douglas,Casey,29,23,47,17,39,0,0,0,38,1.871
+4849,Spring 2022,MATH,2414,61,18607,Calculus II,West,James David,5,3,5,1,7,0,0,0,6,1.905
+4881,Spring 2022,COSC,8398,115,20173,Doctoral Research,Laszka,Aron,0,0,0,0,0,1,0,0,0,0.0
+4919,Spring 2022,COSC,3360,2,19264,Operating Systems,Rincon Castro,Carlos Alberto,33,37,23,12,16,0,0,0,26,2.452
+4953,Spring 2022,MATH,1100,3,25100,Developmental Math,Chang,James A,0,0,0,0,0,7,5,0,2,0.0
+5034,Spring 2022,COSC,7362,1,27575,Advanced Machine Learning,Vilalta,Ricardo,37,10,0,0,0,0,0,0,0,3.647
+5065,Spring 2022,MATH,8398,22,18362,Doctoral Research,Olshanskiy,Maxim Alexandrovich,0,0,0,0,0,3,0,0,0,0.0
+5084,Spring 2022,COSC,1336,4,19937,Computer Science & Program,Rincon Castro,Carlos Alberto,36,28,11,8,7,0,0,0,13,2.867
+5130,Spring 2022,COSC,8398,119,20177,Doctoral Research,Ordonez,Carlos,0,0,0,0,0,2,0,0,0,0.0
+5149,Spring 2022,COSC,8399,113,20264,Doctoral Dissertation,Johnsson,Lennart,1,0,0,0,0,0,0,0,0,4.0
+5200,Spring 2022,MATH,5330,1,15434,Abstract Algebra,Ru,Min,5,0,0,0,0,0,0,0,1,3.868
+5249,Spring 2022,MATH,6367,1,14879,Optimization Theory,Hoppe,Ronald H W,12,2,0,0,0,0,0,0,1,3.81
+5299,Spring 2022,COSC,6398,114,20327,Special Problems,Kakadiaris,Ioannis A.,0,0,0,0,0,0,0,0,0,0.0
+5312,Spring 2022,COSC,8698,109,20198,Doctoral Research,Gnawali,Omprakash D,0,0,0,0,0,1,0,0,0,0.0
+5321,Spring 2022,MATH,6397,3,24994,Selected Topics in Math,Ryan,John M,9,1,0,0,0,0,0,0,1,3.801
+5365,Spring 2022,MATH,8398,15,16699,Doctoral Research,Kalantar,Mehrdad,0,0,0,0,0,3,0,0,0,0.0
+5400,Spring 2022,MATH,2413,11,18572,Calculus I,Perepelitsa,Irina,27,24,26,19,23,0,0,0,25,2.043
+5427,Spring 2022,MATH,4364,3,26286,Intro to Numerical Analysis,Morgan,Jeffrey,20,29,7,0,5,0,0,0,9,2.935
+5446,Spring 2022,MATH,8698,14,17695,Doctoral Research,Mang,Andreas,0,0,0,0,0,3,0,0,0,0.0
+5454,Spring 2022,COSC,4398,3,26317,Independent Study,Yun,Changhoon,0,0,0,0,0,1,0,0,0,0.0
+5458,Spring 2022,COSC,6398,103,20316,Special Problems,Cheng,Albert M K,0,0,0,0,0,0,0,0,0,0.0
+5465,Spring 2022,COSC,8398,112,20170,Doctoral Research,Huang,Shou-Hsuan Stephen,0,0,0,0,0,1,0,0,0,0.0
+5471,Spring 2022,MATH,8999,3,15492,Doctoral Dissertation,Bodmann,Bernhard G,1,0,0,0,0,0,0,0,0,4.0
+5482,Spring 2022,COSC,2306,1,19967,Data Programming,Shah,Shishir,25,11,6,2,8,0,0,0,16,2.783
+5503,Spring 2022,COSC,8998,128,20248,Doctoral Research,Tsekos,Nikolaos V,0,0,0,0,0,3,0,0,0,0.0
+5531,Spring 2022,COSC,8399,128,20279,Doctoral Dissertation,Tsekos,Nikolaos V,1,0,0,0,0,0,0,0,0,4.0
+5557,Spring 2022,MATH,2414,21,18585,Calculus II,Xhabli,Blerina,112,40,42,25,32,0,0,0,33,2.68
+5561,Spring 2022,MATH,3321,2,17931,Engineering Mathematics,West,James David,12,9,20,15,26,0,0,0,14,1.569
+5565,Spring 2022,MATH,4315,1,24531,Graph Theory with Applications,Josic,Kresimir,1,9,6,2,2,0,0,0,2,2.217
+5616,Spring 2022,COSC,7399,106,27947,Masters Thesis,Deng,Zhigang,1,0,0,0,0,0,0,0,0,4.0
+5673,Spring 2022,MATH,6308,2,17020,Advanced Linear Algebra I,Ji,Shanyu,4,3,1,0,0,0,0,0,0,3.293
+5694,Spring 2022,COSC,8398,107,20165,Doctoral Research,Eick,Christoph F,0,0,0,0,0,2,0,0,0,0.0
+5697,Spring 2022,MATH,8698,21,19063,Doctoral Research,Heier,Gordon,0,0,0,0,0,2,0,0,0,0.0
+5721,Spring 2022,COSC,4353,2,17390,Software Design,Singh,Raj Kumar,66,23,4,1,1,0,0,0,0,3.59
+5732,Spring 2022,MATH,4364,1,17332,Intro to Numerical Analysis,Pan,Tsorng-Whay,37,10,9,0,0,0,0,0,1,3.429
+5768,Spring 2022,MATH,6398,6,14886,Special Problems,Azencott,Robert Guy,0,0,0,0,0,1,0,0,0,0.0
+5774,Spring 2022,COSC,6110,1,14372,Graduate Colloquium,Leiss,Ernst L,0,0,0,0,0,2,0,0,0,0.0
+5780,Spring 2022,COSC,8698,125,20214,Doctoral Research,Shi,Weidong,0,0,0,0,0,1,0,0,0,0.0
+5797,Spring 2022,COSC,3340,1,14369,Intro. to Automata and Comp.,Leiss,Ernst L,11,57,66,25,7,0,0,0,16,2.241
+5838,Spring 2022,COSC,8399,127,20278,Doctoral Dissertation,Subhlok,Jaspal,2,0,0,0,0,3,0,0,0,1.6
+5853,Spring 2022,COSC,8998,114,20234,Doctoral Research,Kakadiaris,Ioannis A.,0,0,0,0,0,1,0,0,0,0.0
+5878,Spring 2022,COSC,4368,1,16558,Artificial Intelligence,Eick,Christoph F,16,33,14,3,1,0,0,0,14,2.861
+5910,Spring 2022,COSC,8698,115,20204,Doctoral Research,Laszka,Aron,0,0,0,0,0,2,0,0,0,0.0
+5990,Spring 2022,COSC,6399,114,27980,Masters Thesis,Kakadiaris,Ioannis A.,1,0,0,0,0,0,0,0,0,4.0
+6004,Spring 2022,COSC,8998,107,20227,Doctoral Research,Eick,Christoph F,0,0,0,0,0,3,0,0,0,0.0
+6021,Spring 2022,MATH,3325,5,24466,Transition to Advanced Math,Vershynina,Anna,7,8,2,2,2,0,0,0,4,2.683
+6040,Spring 2022,MATH,5385,1,20868,Statistics,Jun,Mikyoung,8,5,1,0,0,0,0,0,0,3.406
+6057,Spring 2022,MATH,6321,1,14878,Func Real Variable,Nicol,Matthew J.,6,2,0,0,0,0,0,0,0,3.75
+6074,Spring 2022,COSC,8398,109,20167,Doctoral Research,Gnawali,Omprakash D,0,0,0,0,0,1,0,0,0,0.0
+6077,Spring 2022,MATH,8698,13,17694,Doctoral Research,Mamonov,Alexander V,0,0,0,0,0,1,0,0,0,0.0
+6093,Spring 2022,MATH,1324,4,14843,Finite Math with Applications,Sosa,Moses,55,46,29,17,27,0,0,0,25,2.434
+6131,Spring 2022,MATH,4365,1,16701,Numerical Methods for Diff Equ,He,Jiwen,13,5,1,0,1,0,0,0,0,3.45
+6135,Spring 2022,MATH,3349,1,19998,Inferential Statistics,Poliak,Cathy Dawn,3,2,2,2,1,0,0,0,2,2.499
+6144,Spring 2022,MATH,2414,51,20879,Calculus II,Climenhaga,Vaughn,2,3,2,2,1,0,0,0,2,2.3
+6148,Spring 2022,MATH,6398,4,14884,Special Problems,Perepelitsa,Mikhail Antolyevic,0,0,0,0,0,1,0,0,0,0.0
+6178,Spring 2022,MATH,1324,1,14842,Finite Math with Applications,Sosa,Moses,84,60,37,16,39,0,0,0,33,2.506
+6186,Spring 2022,MATH,3338,1,19683,Probability,Kao,Edward P,3,6,0,0,0,0,0,0,3,3.223
+6187,Spring 2022,MATH,3321,4,14857,Engineering Mathematics,Torok,Andrei S,7,3,13,12,4,0,0,0,14,1.822
+6196,Spring 2022,MATH,3336,1,14859,Discrete Mathematics,Caglar,Atife,38,25,9,6,9,0,0,0,4,2.923
+6236,Spring 2022,COSC,8998,129,20249,Doctoral Research,Verma,Rakesh M,0,0,0,0,0,2,0,0,0,0.0
+6242,Spring 2022,COSC,8399,114,20265,Doctoral Dissertation,Kakadiaris,Ioannis A.,1,0,0,0,0,0,0,0,0,4.0
+6246,Spring 2022,MATH,8398,2,14912,Doctoral Research,Azencott,Robert Guy,0,0,0,0,0,3,0,0,0,0.0
+6249,Spring 2022,COSC,8998,117,20237,Doctoral Research,Merchant,Fatima Aziz,0,0,0,0,0,3,0,0,0,0.0
+6258,Spring 2022,COSC,3337,1,25879,Data Science I,Rizk,Nouhad J,47,36,16,2,3,0,0,0,6,3.157
+6286,Spring 2022,MATH,2312,5,19136,Precalculus,Perepelitsa,Irina,20,7,7,2,9,0,0,0,9,2.541
+6330,Spring 2022,MATH,2413,1,18566,Calculus I,Constante,Beatrice,54,46,69,32,51,0,0,0,42,2.034
+6434,Spring 2022,MATH,3334,1,25473,Adv Multivariable Calculus,Jaramillo,Gabriela T,2,4,2,0,3,0,0,0,4,2.092
+6473,Spring 2022,MATH,3336,3,17018,Discrete Mathematics,Heier,Gordon,29,34,9,0,3,0,0,0,5,3.129
+6479,Spring 2022,MATH,4322,1,20817,Data Science and Machine Learn,Poliak,Cathy Dawn,80,14,3,0,1,0,0,0,1,3.752
+6488,Spring 2022,MATH,2312,8,16353,Precalculus,Almus,Melahat,18,5,6,3,12,0,0,0,10,2.288
+6530,Spring 2022,MATH,8698,28,27270,Doctoral Research,Cappanera,Loic,0,0,0,0,0,2,0,0,0,0.0
+6561,Spring 2022,MATH,1314,10,16351,College Algebra,Constante,Beatrice,7,2,4,5,5,0,0,0,3,1.957
+6632,Spring 2022,COSC,6399,129,27061,Masters Thesis,Verma,Rakesh M,0,0,0,0,0,1,0,0,0,0.0
+6641,Spring 2022,COSC,4359,1,16181,Intermediate Game Development,Yun,Changhoon,23,0,1,0,0,0,0,0,0,3.834
+6662,Spring 2022,MATH,5332,1,14872,Differential Equations,Etgen,Garret J,7,4,0,0,0,0,0,0,2,3.636
+6685,Spring 2022,MATH,8698,12,17592,Doctoral Research,Nicol,Matthew J.,0,0,0,0,0,1,0,0,0,0.0
+6687,Spring 2022,MATH,8699,19,14945,Doctoral Dissertation,Josic,Kresimir,2,0,0,0,0,0,0,0,0,4.0
+6699,Spring 2022,COSC,8998,102,20222,Doctoral Research,Chen,Guoning,0,0,0,0,0,2,0,0,0,0.0
+6713,Spring 2022,MATH,1324,10,16352,Finite Math with Applications,Sosa,Moses,20,8,4,8,14,0,0,0,9,2.186
+6742,Spring 2022,COSC,6359,1,16182,Intermediate Game Development,Yun,Changhoon,6,1,0,0,0,0,0,0,0,3.904
+6772,Spring 2022,COSC,8399,129,20280,Doctoral Dissertation,Verma,Rakesh M,0,0,0,0,0,0,0,0,0,0.0
+6779,Spring 2022,COSC,1336,1,17846,Computer Science & Program,Huang,Shou-Hsuan Stephen,15,15,6,5,10,0,0,0,49,2.34
+6811,Spring 2022,MATH,8698,15,18475,Doctoral Research,Labate,Demetrio,0,0,0,0,0,5,0,0,0,0.0
+6837,Spring 2022,MATH,4332,1,14862,Intro to Real Analysis II,Vershynina,Anna,5,3,2,0,1,0,0,0,2,2.94
+6853,Spring 2022,MATH,8398,20,17306,Doctoral Research,Mamonov,Alexander V,0,0,0,0,0,1,0,0,0,0.0
+6915,Spring 2022,MATH,6361,1,24535,Applicable Analysis,Bodmann,Bernhard G,6,4,3,0,0,0,0,0,0,3.231
+6923,Spring 2022,MATH,8399,13,14924,Doctoral Dissertation,Olshanskiy,Maxim Alexandrovich,1,0,0,0,0,1,0,0,0,2.0
+6943,Spring 2022,MATH,8398,4,15494,Doctoral Research,Bodmann,Bernhard G,0,0,0,0,0,1,0,0,0,0.0
+6987,Spring 2022,COSC,4399,3,27664,Senior Honors Thesis,Eick,Christoph F,1,0,0,0,0,0,0,0,0,3.67
+6995,Spring 2022,COSC,4396,2,19655,Senior Research Project,Ordonez,Carlos,1,0,0,0,0,0,0,0,0,4.0
+7033,Spring 2022,COSC,4353,1,16935,Software Design,Singh,Raj Kumar,91,6,0,0,0,0,0,0,1,3.894
+7036,Spring 2022,COSC,2436,1,19968,Programming and Data Structure,Mukherjee,Arjun,40,4,9,1,7,0,0,0,24,3.082
+7049,Spring 2022,COSC,4337,1,19972,Data Science II,Vilalta,Ricardo,25,13,2,0,0,0,0,0,3,3.509
+7110,Spring 2022,MATH,8398,9,16686,Doctoral Research,Haynes,Alan K,0,0,0,0,0,1,0,0,0,0.0
