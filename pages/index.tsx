@@ -2,8 +2,17 @@ import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import Link from 'next/link'
+import firebase from "../utils/firebase";
+import {useEffect} from "react";
+import {getUsers} from "../utils/users";
+
+firebase();
 
 export default function Home() {
+  useEffect(() => {
+    getUsers();
+  }, []);
+
   return (
     <div className="sign-in-form">
       <h1>OverLook</h1>
